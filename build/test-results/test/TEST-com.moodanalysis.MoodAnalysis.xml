@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.moodanalysis.MoodAnalysis" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-07T12:05:13" hostname="DESKTOP-25DPEJS" time="0.019">
+<testsuite name="com.moodanalysis.MoodAnalysis" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-07T17:19:10" hostname="DESKTOP-25DPEJS" time="0.197">
   <properties/>
-  <testcase name="givenMessage_WhenInvalidEmptyMood_ThrowCustomException" classname="com.moodanalysis.MoodAnalysis" time="0.019"/>
+  <testcase name="givenMessage_WhenInvalidMood_ThrowCustomException" classname="com.moodanalysis.MoodAnalysis" time="0.197"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
